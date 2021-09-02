@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on AWS Amplify/AWS Cognito/AWS Lambda/Serverless/React/Vue stack.
-- 🌱 I’m currently learning Blockchain/Cryptocurrency/Smart Contract/NFT.
-- 👯 I’m looking to collaborate on a long term project.
-- 🤔 I’m looking for help with ...
+- 🌱 I am currently working on Solana/Rust/NFT now.
+- 🌱 I was working on working on Blockchain/Cryptocurrency/Smart Contract/NFT.
+- 🔭 I had been working on AWS Amplify/AWS Cognito/AWS Lambda/Serverless/React/Vue stack.
 - 😄 Pronouns: He
