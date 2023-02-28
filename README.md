@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I am currently working on Go/Python/Node.js/AWS now.
-- 🔭 I am good at Javascript/Typescript/React/Vue also.
+- 🌱 I am specialized in Javascript/Typescript/React/Next/Node/Vue.
+- 🔭 I am also good at AWS/Go/Python now.
 - 🌱 I have good experience in Blockchain/Cryptocurrency/Smart Contract/NFT/GameFi/Metaverse.
 - 😄 Pronouns: He
